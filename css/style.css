@@ -143,7 +143,22 @@ body .main_hor_navigation {
     background-image: -o-linear-gradient(top, #1f6787, #0d365a);
     background-image: linear-gradient(to bottom, #1f6787, #0d365a);
     border-radius: 25px;
-   
-
 }
+body .main_hor_navigation .goods_information {
+float: left;
+margin-left: 42px;
+margin-top: 7px;
+}
+
+.goods, .all_sum {
+	font-family: Arial;
+	font-size: 11px;
+	color: #929b9f;
+}
+.sum {
+	font-family: Arial;
+	font-size: 11px;
+	color: #0d5a8f;
+}
+
 
